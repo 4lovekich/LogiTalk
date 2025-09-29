@@ -7,7 +7,7 @@ import wave
 import time
 import threading
 
-# --- Ініціалізація та налаштування ---
+# --- Ініціалізація та 
 pygame.mixer.init()
 audio = pyaudio.PyAudio()
 
